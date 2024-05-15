@@ -1,0 +1,1 @@
+ci-cd, nextjs, recursion, typescript, functional component, project, design pattern, pretier, eslint
